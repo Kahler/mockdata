@@ -1,0 +1,6 @@
+{
+  "tabs": [{"name": "tab1", "content": "This is the content for tab1"},
+    {"name": "tab2", "content": "This is the content for tab2"},
+    {"name": "tab2.5", "content": "This is the content for tab2.5"},
+    {"name": "tab3", "content": "This is the content for tab3"}]
+}
